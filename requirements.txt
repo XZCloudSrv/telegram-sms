@@ -1,0 +1,15 @@
+# Copyright (c) 散小战开发
+# 作者频道@SAN869CN
+# 作者高级版机器人@Sanxiaozhan886
+# 版权所有，请勿二改
+# 保留所有权利。
+
+# 安装所需的Python库
+requests
+pyTelegramBotAPI
+
+# Copyright (c) 散小战开发
+# 作者频道@SAN869CN
+# 作者高级版机器人@Sanxiaozhan886
+# 版权所有，请勿二改
+# 保留所有权利。
